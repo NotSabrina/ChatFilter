@@ -1,0 +1,6 @@
+name: ChatFilter
+version: 1.0
+main: me.supramental.chatfilter.ChatFilter
+api-version: 1.20
+description: Filter your chat
+

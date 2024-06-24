@@ -1,0 +1,4 @@
+name: ChatFilter
+version: '${project.version}'
+main: me.supramental.chatfilter.ChatFilter
+api-version: '1.20'
